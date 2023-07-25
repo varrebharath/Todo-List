@@ -1,0 +1,10 @@
+.body{
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+    color: orangered;
+}
+.btn{
+padding: 20px 10px;
+margin:15px ;
+}
